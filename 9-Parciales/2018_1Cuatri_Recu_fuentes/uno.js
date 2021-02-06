@@ -13,5 +13,7 @@ function mostrar()
     let perimetro;
     perimetro = suma * 2;
 
-    alert("El perimetro es " + perimetro + " metros");
+    alert("El perimetro es " + perimetro + " metros"); 
+
+    //edgar//
 }
